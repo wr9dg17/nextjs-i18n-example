@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: Lato, "Lucida Grande", Tahoma, Sans-Serif;
+}
+
+main.content {
+    min-height: calc(100vh - 111px);
+}
+
+ul {
+    list-style: none;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
